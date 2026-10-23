@@ -710,3 +710,11 @@
 
 </body>
 </html>
+{
+  id: 9,
+  name: "Elegant Shawl",
+  category: "Fashion",
+  price: 3000,
+  tag: "NEW",
+  image: "YOUR-EXACT-PHOTO-FILENAME.jpg"
+}
